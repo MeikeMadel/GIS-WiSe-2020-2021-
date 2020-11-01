@@ -1,0 +1,150 @@
+h1 {
+    color:beige; 
+    font-weight: 700px;
+    font-size: 200px;
+    text-align: center;
+    letter-spacing: -17px;
+    margin-top: 0px;
+}
+
+header{
+    background-color: brown;
+    margin: -8px 195px 0px 170px;
+    border-style: none;
+    border-bottom-left-radius: 450px;
+    border-bottom-right-radius: 450px;
+    padding: 0px 65px 20px 65px;
+
+}
+
+#header-text {
+    color: beige;
+    font-size: 26px;
+    letter-spacing: -1px;
+    word-spacing: -2px;
+    margin-left: 50%;
+    margin-top: -150px;
+    
+}
+
+h2, h3{
+    color: brown;
+    font-weight: lighter;
+}
+
+body{
+    background-image: url(bg.png);
+    font-family: sans-serif; 
+}
+
+
+.navigation {
+    background-color: black;
+    width: 280px;
+    right: 50px;
+    text-align: center;
+    margin-left: 80%;
+    position: fixed;
+}
+
+td{
+    border-right: 1px solid white;
+    padding-right: 2px;
+}
+
+#schwarze-Linie{
+    border-right: 1px solid black;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    color:brown;
+}
+
+video,audio {
+    width: 800px;
+    margin: auto;
+}
+
+.aktuelle-Seite{
+color: brown;
+}
+
+.formular{
+color: white;
+background-color: lightgrey;
+width: 200px;
+height: 20px;
+padding: 5px 70px 5px 5px; 
+}    
+
+#formularteil{
+    color: lightgray;
+}
+
+#nachricht{
+    padding: 5px 120px 40px 5px;
+}
+
+#absenden{
+    width: 15px;
+    height: 15px;
+    text-align: center;
+}
+
+.icon{
+    margin:auto;
+    width: 30px;
+    height: 30px;
+}
+
+.icon-Facebook, .icon-Instagram{
+    margin-left: 50%;
+    width: 30px;
+    height: 30px;
+    background-color: brown;
+    border-radius: 4px;
+}
+
+.icon-Facebook:hover, .icon-Instagram:hover{
+    background-color: beige;
+    border-radius: 4px;
+}
+
+
+main {
+    margin: 80px 0px 0px 170px;
+}
+
+.video-Div {
+    border-style: dotted;
+    border-color: maroon;
+    border-width: 7px;
+    margin-right: 202px;
+    padding: 4px 0px 2px 4px;
+}
+
+.audio-Div {
+    border-color: maroon;
+    border-width: 5px;
+    border-style: none;
+    margin-right: 202px;
+    margin-bottom: 60px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 10px grey;
+}
+
+#Wald{
+    width: 800px;
+    height: 900px;
+}
+
+#Bild-Mädchen {
+    width: 800px;
+    height: 500px;
+    margin: auto;
+}
