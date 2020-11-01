@@ -296,7 +296,6 @@ td > img{
         display: flex;
     }
 
-
     audio[src$="wav"]{
         width: 100%;
         border: 1px solid grey;
@@ -581,3 +580,6 @@ td > img{
     }
 }
 
+.felx-box{
+    display: flex;
+}
